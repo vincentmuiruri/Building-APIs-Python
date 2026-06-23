@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "name": "Alice Mwangi",
+  "email": "alice@example.com",
+  "is_active": true,
+  "scores": [95, 87, 100]
+}
